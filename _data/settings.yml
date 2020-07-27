@@ -10,7 +10,7 @@ description: Facts First is an organization dedicated to teaching people to thin
 author:
   name: Facts First
   image: logo.png
-  say-hello:  , this is <strong>Facts First</strong>
+  say-hello: Hello, this is <strong>Facts First</strong>
   bio: an orginization dedicated to teaching teenagers to think for themsevles and fight misinformation and logcial fallicies on social media platforms
 
 
